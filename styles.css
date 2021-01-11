@@ -1,0 +1,91 @@
+body {
+  background:transparent !important;
+}
+ 
+.monitoring_main_right {
+  overflow-y:scroll !important;
+  overflow-x:scroll !important;
+}
+
+.front {
+	background: white !important;
+}
+
+.title_product {
+	color: black !important;
+}
+
+.monitoring_bottom_status {
+	background:white !important;
+	bottom:0px !important;
+}
+
+.titlee2enew {
+	color: black !important;	
+}
+
+.title_fail_rate {
+	color:green !important;	
+}
+
+.table2_part1 {
+	color:black !important;
+	background:white !important;
+}
+
+.monitoring_main_right {
+	background: white !important;
+}
+
+
+.widget.widget-liste2e.failure_rate_legacy__production {
+	background: white !important;
+}
+
+.widget.widget-liste2e.failure_rate_liveengage__production{
+	background: white !important;
+}
+
+.label {
+	color: black !important;	
+}
+
+.more-info{
+	color: black !important;	
+}
+
+.updated-at{
+	color: black !important;	
+}
+
+.title{
+	color: black !important;		
+	font-weight: bold;
+}
+
+.value.b_status-ok{
+	color:green !important;	
+}
+
+h2.more-info {
+	position: absolute;
+	bottom: 0;
+	text-transform: capitalize !important;
+	font-size: small;
+}
+
+h2.more-info:before {
+	content: '\A';
+}
+
+h2.more-info:after {
+	content: '...and Jeff! ;)';
+	text-transform: none !important;
+	font-size: small;
+}
+
+
+.widget.widget-text.title {
+	background:transparent !important;
+}
+
